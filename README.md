@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
-  <br />
+  <br />CC
  Networking Guide
 </h1>
 
